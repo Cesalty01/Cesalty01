@@ -1,8 +1,6 @@
-# Olá, sou a Cesaltina 👋🏾
+# Prazer, Cesaltina! 😉
 
-Actualmente cursando Electrônica e Telecomunicações, e uma entusiasta de Desenvolvimento Software 👩🏾‍💻💜
-
-Este é um projecto meu que mostra um pouco daquilo que tenho aprendido em Git e GitHub na [Digital Innovation One](https://www.dio.me/).
+✨Actualmente cursando Electrônica e Telecomunicações, e uma entusiasta de Desenvolvimento Software 👩🏾‍💻💜
 
 
 ## Conecte-se comigo
